@@ -1,0 +1,19 @@
+##by Edwin Cruz
+#Capitulo 2
+-Algoritmo de normalización semantica
+-cadenas de texto ASCII
+-Data is inmutable
+-Scribe
+-Flume
+-syslog-on
+-El almacenamiento de datos y las capas de procesamiento de la consulta son independientes
+-Graph schema
+#Capitulo3
+-Marco de Serialización
+-error de downstream
+-Protocol Buffers
+-Struct
+-hashmpaps
+
+#Capitulo 7
+-JCascalog 
